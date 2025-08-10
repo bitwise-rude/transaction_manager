@@ -1,0 +1,21 @@
+{
+  "transactions": [
+    {
+      "id": "582d10d5-b4fa-4666-8baf-8d15cbae7235",
+      "date": "2025-07-05",
+      "particular": "Chiya",
+      "total": 100.0,
+      "meyanPay": 80.0,
+      "kushalPay": 20.0,
+      "submitted_by": "meyan",
+      "created_at": "2025-07-05T14:26:58.001781",
+      "confirmed_by": "kushal",
+      "confirmed_at": "2025-07-05T14:27:03.088092"
+    }
+  ],
+  "pending_transactions": [],
+  "balances": {
+    "meyan": 0.0,
+    "kushal": 30.0
+  }
+}
