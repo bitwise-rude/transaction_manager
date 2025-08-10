@@ -4,6 +4,13 @@
 
 This is the backend for the Room Transaction App, a simple service to help roommates manage shared expenses and debts. The API is built with Flask and uses a JSON file (`expense_data.json`) to persist data.
 
+## Demos
+![Screenshot_2025-08-10-09-18-52-188_com meyan myfirstapp](https://github.com/user-attachments/assets/5ab4a058-af92-41ef-b650-54af46c8f48e)
+
+![Screenshot_2025-08-10-09-18-45-013_com meyan myfirstapp](https://github.com/user-attachments/assets/7172c41d-195d-460b-a471-7bcc4d7be412)
+
+![Screenshot_2025-08-10-09-18-41-865_com meyan myfirstapp](https://github.com/user-attachments/assets/1a7761d2-44e9-4929-a101-b0cba53008ee)
+
 ## Features ✨
 
   - **Expense Tracking:** Submit and confirm shared expenses between roommates.
