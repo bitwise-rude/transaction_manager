@@ -1,8 +1,6 @@
-Here is a README.md file for your **Room Transaction App** backend.
-
 # Room Transaction App Backend And Frontend
 
-(I know I should've done them differently but its a very simple project, so sorry for making this a mess.)
+(I know I should've done the frontend and backend differently but its a very simple project, so sorry for making this a mess.)
 
 This is the backend for the Room Transaction App, a simple service to help roommates manage shared expenses and debts. The API is built with Flask and uses a JSON file (`expense_data.json`) to persist data.
 
